@@ -2,6 +2,6 @@ Oi, sou o Lázaro Ataide de Assis bacharel em sistemas de informação com + de 
 Estudante das seguintes linguagens de programação: Java, javaScript, TypeScript, PHP, React e nodeJs.
 Com conhecimentos em Scss, css, SQL, Mongo-db, Firebase, Docker.
 
-Estou em busca de uma oprtunidade de migração para a programação.
+Estou em busca de um cargo com desenvolvedor Fullstack react/NodeJs
 
  
